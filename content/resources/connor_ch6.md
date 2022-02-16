@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-561-motion-based-design-fall-2003/57597cb3faf57a3ae649f835b6cb6d13_connor_ch6.pdf
+file: /media/courses/1-561-motion-based-design-fall-2003/57597cb3faf57a3ae649f835b6cb6d13_connor_ch6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: connor_ch6.pdf
 uid: 57597cb3-faf5-7a3a-e649-f835b6cb6d13
