@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: References and links providing further information about motion based
+  design.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
