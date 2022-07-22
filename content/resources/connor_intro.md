@@ -5,6 +5,7 @@ file: /courses/1-561-motion-based-design-fall-2003/a92ca2aa42f36c1b5c8e9c76dbee3
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
