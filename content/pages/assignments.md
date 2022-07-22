@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: 'The assignments for this course are from the course textbook: Connor,
+  J. J. Introduction to Structural Motion Control. Prentice Hall, August 2002. The
+  table below also provides the lecture in which each homework is assigned.'
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: ccd502f6-f546-1d02-3c04-0a6ff4d80ba2
 ---

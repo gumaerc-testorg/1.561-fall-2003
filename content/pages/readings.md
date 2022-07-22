@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains references to a variety of structures categorized
+  according to building type, joint details, construction materials and load paths.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 8e2b5554-8623-f8cb-8835-5a2b2e21c9da
 ---

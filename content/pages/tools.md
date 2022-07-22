@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: A variety of learning modules and simulators using Java? applets have
+  been developed to simulate structural engineering and dynamics concepts.
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: 37484b57-6fb9-7e1e-f61f-b18feb760bef
 ---
@@ -21,5 +26,5 @@ This simulator demonstrates a building's behavior under dynamic loading. (Courte
 **[Single Degree of Freedom Nonlinear Analysis Tool](http://cedb.asce.org/cgi/WWWdisplay.cgi?0405520)**  
 This program was developed by the Federal Emergency Management Agency. It's very impressive and should be a useful tool. You can download the program onto your computer.
 
-[**Introductory Matlab® Tutorial**]({{< baseurl >}}/resources/matlab)   
+{{% resource_link 96241aa9-4f4d-d600-a6b3-2b17a0424fb5 "**Introductory Matlab® Tutorial**" %}}   
 This tutorial covers basic Matlab® commands.
