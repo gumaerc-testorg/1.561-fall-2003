@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-561-motion-based-design-fall-2003/cf24cf5292417756a915873149b09649_connor_ch14.pdf
+file_size: 3033874
 file_type: application/pdf
 learning_resource_types:
 - Readings
