@@ -2,42 +2,37 @@
 content_type: page
 description: References and links providing further information about motion based
   design.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 372f04dc-59c7-f759-2adc-814781047ab8
 ---
-
 The following references and links provide further information about motion based design.
 
-Damping
--------
+## Damping
 
-Rasmussen, E. "Dampers Hold Sway." _Civil Engineering Magazine._ Vol. 67, no. 3 (1997): 40-43.
+Rasmussen, E. "Dampers Hold Sway." *Civil Engineering Magazine.* Vol. 67, no. 3 (1997): 40-43.
 
-Base Isolation
---------------
+## Base Isolation
 
-_Rubber Technology for Seismic Isolation_
+*Rubber Technology for Seismic Isolation*
 
-Kojima, H., and Y. Fukahori. _Rubber World._ Vol. 35, no. 202 (1990).  
-  
-Fujita, R., S. Suzuki, and S. Fujita. _The 1989 ASME Pressure Vesseles and Piping Conference._ Vol. 181 (1989): 923-928.
+Kojima, H., and Y. Fukahori. *Rubber World.* Vol. 35, no. 202 (1990).
 
-Tuned Mass Damper
------------------
+Fujita, R., S. Suzuki, and S. Fujita. *The 1989 ASME Pressure Vesseles and Piping Conference.* Vol. 181 (1989): 923-928.
+
+## Tuned Mass Damper
 
 [Tuned Active Damper for High-Rise Buildings](http://www.mhi.co.jp/)
 
-Standards and Codes
--------------------
+## Standards and Codes
 
-American National Standard Guide to the Evaluation of Human Exposure to Vibration in Buildings: [ANSI S3.29-1983 (R1996)](https://webstore.ansi.org/standards/asa/ansis3291983r1996) 
+American National Standard Guide to the Evaluation of Human Exposure to Vibration in Buildings: [ANSI S3.29-1983 (R1996)](https://share.ansi.org/Shared%20Documents/Standards%20Action/2001%20PDFs/SAV329.pdf) 
 
-Allen, D. E., and T. M. Murray. "Design Criterion for Vibrations Due to Walking." _AISC Engineering Journal._ Vol. 30, no.4 (1993): 117-129.
+Allen, D. E., and T. M. Murray. "Design Criterion for Vibrations Due to Walking." *AISC Engineering Journal.* Vol. 30, no.4 (1993): 117-129.
 
-Organizations
--------------
+## Organizations
 
 [ACI](http://www.aci-int.org/) The American Concrete Institute
 
