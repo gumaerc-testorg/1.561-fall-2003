@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-561-motion-based-design-fall-2003/8a8cd2aa0debc33993bd91c3e1a5458e_connor_ch15.pdf
+file: /ol-ocw-studio-app/courses/1-561-motion-based-design-fall-2003/8a8cd2aa0debc33993bd91c3e1a5458e_connor_ch15.pdf
 file_size: 2978108
 file_type: application/pdf
 learning_resource_types:
