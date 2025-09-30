@@ -24,22 +24,22 @@ Fujita, R., S. Suzuki, and S. Fujita. *The 1989 ASME Pressure Vesseles and Pipin
 
 ## Tuned Mass Damper
 
-[Tuned Active Damper for High-Rise Buildings](http://www.mhi.co.jp/)
+{{% resource_link "5886c722-b7aa-4392-a8f9-bc90a5395a11" "Tuned Active Damper for High-Rise Buildings" %}}
 
 ## Standards and Codes
 
-American National Standard Guide to the Evaluation of Human Exposure to Vibration in Buildings: [ANSI S3.29-1983 (R1996)](https://share.ansi.org/Shared%20Documents/Standards%20Action/2001%20PDFs/SAV329.pdf) 
+American National Standard Guide to the Evaluation of Human Exposure to Vibration in Buildings: {{% resource_link "8e22dd79-1f40-4522-aadb-d2b560052600" "ANSI S3.29-1983 (R1996)" %}} 
 
 Allen, D. E., and T. M. Murray. "Design Criterion for Vibrations Due to Walking." *AISC Engineering Journal.* Vol. 30, no.4 (1993): 117-129.
 
 ## Organizations
 
-[ACI](http://www.aci-int.org/) The American Concrete Institute
+{{% resource_link "e9bf2ef2-c383-4aff-9836-9269a549060c" "ACI" %}} The American Concrete Institute
 
-[AISC](http://www.aisc.org/) American Institute of Steel Construction
+{{% resource_link "29249708-bb08-47e5-b674-9ea626481db5" "AISC" %}} American Institute of Steel Construction
 
-[ANSI](http://www.ansi.org/) American National Standards Institute
+{{% resource_link "1366e57a-071f-4ea5-b804-e1b451412250" "ANSI" %}} American National Standards Institute
 
-[ASCE](http://www.asce.org/) American Society of Civil Engineers
+{{% resource_link "00ae50dd-d502-4b1d-bb7d-c634fbc8d0d9" "ASCE" %}} American Society of Civil Engineers
 
-[BOCA](http://www.iccsafe.org/Pages/default.aspx#) Building Offials/ Code Administrators -Includes the National Building Code
+{{% resource_link "5eaa13ae-5cb7-4156-9c01-f1213391ccdd" "BOCA" %}} Building Offials/ Code Administrators -Includes the National Building Code
